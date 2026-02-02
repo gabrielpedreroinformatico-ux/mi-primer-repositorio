@@ -1,3 +1,5 @@
 Prueba de nuevo archivo
 
+Esta línea se agregó en el repositorio remoto
+
 Esta línea se agregó en el repositorio local.
